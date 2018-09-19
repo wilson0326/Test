@@ -1,1 +1,4 @@
 helloword!
+public static void main(String args[]){
+	system.out.printn("hello world!");
+}
